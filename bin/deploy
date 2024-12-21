@@ -70,7 +70,7 @@ else
     git checkout -b $SRC_BRANCH
 fi
 
-bundle install --path vendor/bundle
+# bundle install --path vendor/bundle
 # Checkout DEPLOY_BRANCH branch
 if [ `git branch | grep $DEPLOY_BRANCH` ]
 then
