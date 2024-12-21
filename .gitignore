@@ -1,0 +1,5 @@
+_site/
+Thumbs.db
+.Rproj.user
+.bundle/
+vendor/

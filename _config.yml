@@ -1,0 +1,77 @@
+# Site settings
+title: CPS-VIDA Lab @ USC
+name: CPS-VIDA Lab @ USC
+email: # decisionlab@ucsf.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Cyber-Physical Systems + Verification, Intelligence, Design, and Analysis. Research group headed by Prof. Jyo Deshmukh at the 
+  University of Southern California, LA.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: https://cpsvida-beta.io
+last_updated: # leave blank if you don't want to display last updated
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+# -----------------------------------------------------------------------------
+# News
+# -----------------------------------------------------------------------------
+blog_name: CPS-VIDA Lab @ USC
+blog_description: Cyber-Physical Systems + Verification, Intelligence, Design, and Analysis
+
+# Pagination
+paginate: 4
+permalink: /news/:year/:title/
+paginate_path: "news/page:num"
+
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
+
+
+# Optional features
+show_social_icons:  false
+enable_anchorjs:    false
+enable_katex:       true
+
+
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /updates/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+  pastsem:
+    output: true
+    permalink: /pastsem/:path/
+
+news_limit: 5
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Includes & excludes
+include: ['_pages']
+exclude: [vendor]
+
+# Plug-ins
+plugins:
+    - jekyll-email-protect
+    - jekyll-paginate
+    - jemoji
+    - jekyll-sitemap
+
+
+# -----------------------------------------------------------------------------
+# Other settings
+# -----------------------------------------------------------------------------
+jquery_version: "1.12.4"
+katex_version: "0.9.0"
+anchorjs_version: "3.2.2"

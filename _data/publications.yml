@@ -1,0 +1,3359 @@
+- authors: Ezio Bartocci, Jyotirmoy Deshmukh, Alexandre Donzé, Georgios Fainekos
+   , Oded Maler, Dejan Ničković, Sriram Sankaranarayanan
+  title: 'Specification-based monitoring of cyber-physical systems: a survey on theory,
+    tools, applications'
+  details: 'Lectures on Runtime Verification: Introductory and Advanced Topics'
+  year: 2018
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-319-75632-5_5
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Xiaoqing Jin, Alexandre Donzé, Jyotirmoy V Deshmukh, Sanjit A
+    Seshia
+  title: Mining requirements from closed-loop control models
+  details: 
+  year: 2013
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/2461328.2461337
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Abhishek Udupa, Arun Raghavan, Jyotirmoy V Deshmukh, Sela Mador-Haim
+   , Milo MK Martin, Rajeev Alur
+  title: 'TRANSIT: specifying protocols with concolic snippets'
+  details: ACM SIGPLAN Notices 48
+  year: 2013
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/2499370.2462174
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy V Deshmukh, Alexandre Donzé, Shromona Ghosh, Xiaoqing
+    Jin, Garvit Juniwal, Sanjit A Seshia
+  title: Robust online monitoring of signal temporal logic
+  details: Formal Methods in System Design 51
+  year: 2017
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/article/10.1007/s10703-017-0286-7
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Xiaoqing Jin, Jyotirmoy V Deshmukh, James Kapinski, Koichi Ueda
+   , Ken Butts
+  title: Powertrain control verification benchmark
+  details: 
+  year: 2014
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/2562059.2562140
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: James Kapinski, Jyotirmoy V Deshmukh, Sriram Sankaranarayanan,
+    Nikos Arechiga
+  title: Simulation-guided Lyapunov analysis for hybrid dynamical systems
+  details: 
+  year: 2014
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/2562059.2562139
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: James Kapinski, Jyotirmoy V Deshmukh, Xiaoqing Jin, Hisahiro Ito
+   , Ken Butts
+  title: 'Simulation-based approaches for verification of embedded control systems:
+    An overview of traditional, advanced modeling, testing,, verification techniques'
+  details: '36'
+  year: 2016
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/7741019/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Tommaso Dreossi, Thao Dang, Alexandre Donzé, James Kapinski,
+    Xiaoqing Jin, Jyotirmoy V Deshmukh
+  title: Efficient guiding strategies for testing of temporal properties of hybrid
+    systems
+  details: 
+  year: 2015
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-319-17524-9_10
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Rajeev Alur, Loris DAntoni, Jyotirmoy Deshmukh, Mukund Raghothaman
+   , Yifei Yuan
+  title: Regular functions, cost register automata
+  details: 
+  year: 2013
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/6571532/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy Deshmukh, Marko Horvat, Xiaoqing Jin, Rupak Majumdar
+   , Vinayak S Prabhu
+  title: Testing cyber-physical systems through bayesian optimization
+  details: ACM Transactions on Embedded Computing Systems (TECS) 16
+  year: 2017
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/3126521
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Aditya Zutshi, Jyotirmoy V Deshmukh, Sriram Sankaranarayanan,
+    James Kapinski
+  title: Multiple shooting, cegar-based falsification for hybrid systems
+  details: 
+  year: 2014
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/2656045.2656061
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Cumhur Erkan Tuncali, James Kapinski, Hisahiro Ito, Jyotirmoy
+    V Deshmukh
+  title: Reasoning about safety of learning-enabled components in autonomous cyber-physical
+    systems
+  details: 
+  year: 2018
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/3195970.3199852
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy Deshmukh, Xiaoqing Jin, James Kapinski, Oded Maler
+  title: Stochastic local search for falsification of hybrid systems
+  details: 
+  year: 2015
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-319-24953-7_35
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Rajeev Alur, Jyotirmoy V Deshmukh
+  title: Nondeterministic streaming string transducers
+  details: 
+  year: 2011
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-642-22012-8_1
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Luan Viet Nguyen, James Kapinski, Xiaoqing Jin, Jyotirmoy V Deshmukh
+   , Taylor T Johnson
+  title: Hyperproperties of real-valued signals
+  details: 
+  year: 2017
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/3127041.3127058
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Adel Dokhanchi, Heni Ben Amor, Jyotirmoy V Deshmukh, Georgios
+    Fainekos
+  title: Evaluating perception systems for autonomous vehicles using quality temporal
+    logic
+  details: 
+  year: 2018
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-030-03769-7_23
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Marcell Vazquez-Chanlatte, Jyotirmoy V Deshmukh, Xiaoqing Jin,
+    Sanjit A Seshia
+  title: Logical clustering, learning for time-series data
+  details: 
+  year: 2017
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-319-63387-9_15
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: James Kapinski, Xiaoqing Jin, Jyotirmoy Deshmukh, Alexandre Donze
+   , Tomoya Yamaguchi, Hisahiro Ito, Tomoyuki Kaga, Shunsuke Kobuna,
+    Sanjit Seshia
+  title: 'ST-Lib: A library for specifying, classifying model behaviors'
+  details: 
+  year: 2016
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://www.sae.org/publications/technical-papers/content/2016-01-0621/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Sara Mohammadinejad, Jyotirmoy V Deshmukh, Aniruddh G Puranic,
+    Marcell Vazquez-Chanlatte, Alexandre Donzé
+  title: Interpretable classification of time-series data using efficient enumerative
+    techniques
+  details: 
+  year: 2020
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/3365365.3382218
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Anand Balakrishnan, Jyotirmoy V Deshmukh
+  title: Structured reward shaping using signal temporal logic specifications
+  details: 
+  year: 2019
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/8968254/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Aditya Zutshi, Sriram Sankaranarayanan, Jyotirmoy V Deshmukh,
+    James Kapinski
+  title: A trajectory splicing approach to concretizing counterexamples for hybrid
+    systems
+  details: 
+  year: 2013
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/6760488/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Mingxi Cheng, Chenzhong Yin, Junyao Zhang, Shahin Nazarian,
+    Jyotirmoy Deshmukh, Paul Bogdan
+  title: A general trust framework for multi-agent systems
+  details: 
+  year: 2021
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p332.pdf
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Houssam Abbas, Bardh Hoxha, Georgios Fainekos, Jyotirmoy V Deshmukh
+   , James Kapinski, Koichi Ueda
+  title: Conformance testing as falsification for cyber-physical systems
+  details: arXiv preprint arXiv:1401.5200
+  year: 2014
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://arxiv.org/abs/1401.5200
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Roopsha Samanta, Jyotirmoy V Deshmukh, E Allen Emerson
+  title: Automatic generation of local repairs for boolean programs
+  details: 
+  year: 2008
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/4689190/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy V Deshmukh, Rupak Majumdar, Vinayak S Prabhu
+  title: Quantifying conformance using the skorokhod metric
+  details: 
+  year: 2015
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-319-21668-3_14
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Lars Lindemann, Xin Qin, Jyotirmoy V Deshmukh, George J Pappas
+  title: Conformal prediction for stl runtime verification
+  details: 
+  year: 2023
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/3576841.3585927
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Anand Balakrishnan, Aniruddh G Puranic, Xin Qin, Adel Dokhanchi
+   , Jyotirmoy V Deshmukh, Heni Ben Amor, Georgios Fainekos
+  title: Specifying, evaluating quality metrics for vision-based perception systems
+  details: 
+  year: 2019
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/8715114/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Aniruddh G Puranic, Jyotirmoy V Deshmukh, Stefanos Nikolaidis
+  title: Learning from demonstrations using signal temporal logic in stochastic,
+    continuous domains
+  details: IEEE Robotics, Automation Letters 6
+  year: 2021
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/9465661/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy Deshmukh, E Allen Emerson, Sriram Sankaranarayanan
+  title: Symbolic deadlock analysis in concurrent libraries, their clients
+  details: 
+  year: 2009
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/5431749/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy V Deshmukh, James P Kapinski, Tomoya Yamaguchi, Danil
+    Prokhorov
+  title: Learning deep neural network controllers for dynamical systems with safety
+    guarantees
+  details: 
+  year: 2019
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/8942130/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Xin Qin, Nikos Aréchiga, Andrew Best, Jyotirmoy Deshmukh
+  title: Automatic testing, falsification with dynamically constrained reinforcement
+    learning
+  details: arXiv preprint arXiv:1910.13645
+  year: 2019
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://scholar.google.com/scholar?cluster=10474001312133082216&hl=en&oi=scholarr
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Xiaoqing Jin, Jyotirmoy V Deshmukh, James Kapinski, Koichi Ueda
+   , Ken Butts
+  title: Benchmarks for model transformations, conformance checking
+  details: 1st International Workshop on Applied Verification for Continuous, Hybrid
+    Systems (ARCH)
+  year: 2014
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://cps-vo.org/sites/cps-vo.org/files/cpsvo_file_nodes/arch14_submission_7pdf.pdf
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy V Deshmukh, Sriram Sankaranarayanan
+  title: Formal techniques for verification, testing of cyber-physical systems
+  details: Design Automation of Cyber-Physical Systems
+  year: 2019
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-030-13050-3_4
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy V Deshmukh, Rupak Majumdar, Vinayak S Prabhu
+  title: Quantifying conformance using the Skorokhod metric
+  details: Formal Methods in System Design 50
+  year: 2017
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/article/10.1007/s10703-016-0261-8
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: James Kapinski, Jyotirmoy Deshmukh, Xiaoqing Jin, Hisahiro Ito
+   , Ken Butts
+  title: Simulation-guided approaches for verification of automotive powertrain control
+    systems
+  details: 
+  year: 2015
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/7171968/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Anand Balakrishnan, Jyotirmoy Deshmukh, Bardh Hoxha, Tomoya Yamaguchi
+   , Georgios Fainekos
+  title: 'PerceMon: online monitoring for perception systems'
+  details: 
+  year: 2021
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-030-88494-9_18
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Meng Wu, Jingbo Wang, Jyotirmoy Deshmukh, Chao Wang
+  title: 'Shield synthesis for real: Enforcing safety in cyber-physical systems'
+  details: 
+  year: 2019
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/8894264/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Luan Viet Nguyen, James Kapinski, Xiaoqing Jin, Jyotirmoy V Deshmukh
+   , Ken Butts, Taylor T Johnson
+  title: Abnormal data classification using time-frequency temporal logic
+  details: 
+  year: 2017
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/3049797.3049809
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Parv Kapoor, Anand Balakrishnan, Jyotirmoy V Deshmukh
+  title: Model-based reinforcement learning from signal temporal logic specifications
+  details: arXiv preprint arXiv:2011.04950
+  year: 2020
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://arxiv.org/abs/2011.04950
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy V Deshmukh, E Allen Emerson, Prateek Gupta
+  title: Automatic verification of parameterized data structures
+  details: 
+  year: 2006
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/11691372_2
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy Deshmukh, G Ramalingam, Venkatesh-Prasad Ranganath,
+    Kapil Vaswani
+  title: Logical concurrency control from sequential proofs
+  details: Logical Methods in Computer Science 7
+  year: 2011
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://lmcs.episciences.org/986
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Sara Mohammadinejad, Brandon Paulsen, Jyotirmoy V Deshmukh, Chao
+    Wang
+  title: 'DiffRNN: differential verification of recurrent neural networks'
+  details: 
+  year: 2021
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-030-85037-1_8
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Ayca Balkan, Paulo Tabuada, Jyotirmoy V Deshmukh, Xiaoqing Jin
+   , James Kapinski
+  title: 'Underminer: A framework for automatically identifying nonconverging behaviors
+    in black-box system models'
+  details: ACM Transactions on Embedded Computing Systems (TECS) 17
+  year: 2017
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/3122787
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Xin Qin, Jyotirmoy V Deshmukh
+  title: Clairvoyant monitoring for signal temporal logic
+  details: 
+  year: 2020
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-030-57628-8_11
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Sicun Gao, James Kapinski, Jyotirmoy Deshmukh, Nima Roohi,
+    Armando Solar-Lezama, Nikos Arechiga, Soonho Kong
+  title: Numerically-robust inductive proof rules for continuous dynamical systems
+  details: 
+  year: 2019
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-030-25543-5_9
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Aditya Zutshi, Sriram Sankaranarayanan, Jyotirmoy V Deshmukh,
+    James Kapinski, Xiaoqing Jin
+  title: Falsification of safety properties for closed loop control systems
+  details: 
+  year: 2015
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/2728606.2728648
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Xin Qin, Yuan Xia, Aditya Zutshi, Chuchu Fan, Jyotirmoy V Deshmukh
+  title: Statistical verification of cyber-physical systems using surrogate models
+   , conformal inference
+  details: 
+  year: 2022
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/9797578/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Aniruddh Puranic, Jyotirmoy Deshmukh, Stefanos Nikolaidis
+  title: Learning from demonstrations using signal temporal logic
+  details: 
+  year: 2021
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://proceedings.mlr.press/v155/puranic21a.html
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: James Kapinski, Jyotirmoy Deshmukh
+  title: Discovering forward invariant sets for nonlinear dynamical systems
+  details: 
+  year: 2015
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-319-12307-3_37
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Panagiotis Kyriakis, Jyotirmoy V Deshmukh, Paul Bogdan
+  title: 'Specification mining, robust design under uncertainty: A stochastic temporal
+    logic approach'
+  details: ACM Transactions on Embedded Computing Systems (TECS) 18
+  year: 2019
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/3358231
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Roopsha Samanta, Jyotirmoy V Deshmukh, Swarat Chaudhuri
+  title: Robustness analysis of string transducers
+  details: 
+  year: 2013
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-319-02444-8_30
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Marcell Vazquez-Chanlatte, Shromona Ghosh, Jyotirmoy V Deshmukh,
+    Alberto Sangiovanni-Vincentelli, Sanjit A Seshia
+  title: Time-series learning using monotonic logical properties
+  details: 
+  year: 2018
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-030-03769-7_22
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Borzoo Bonakdarpour, Jyotirmoy V Deshmukh, Miroslav Pajic
+  title: Opportunities, challenges in monitoring cyber-physical systems security
+  details: 
+  year: 2018
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-030-03427-6_2
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Chuchu Fan, Xin Qin, Yuan Xia, Aditya Zutshi, Jyotirmoy Deshmukh
+  title: Statistical verification of autonomous systems using surrogate models,
+    conformal inference
+  details: arXiv preprint arXiv:2004.00279
+  year: 2020
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://arxiv.org/abs/2004.00279
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy Deshmukh, Xiaoqing Jin, Rupak Majumdar, Vinayak Prabhu
+  title: Parameter optimization in control software using statistical fault localization
+    techniques
+  details: 
+  year: 2018
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/8443736/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Aditya Zutshi, Sriram Sankaranarayanan, Jyotirmoy V Deshmukh,
+    Xiaoqing Jin
+  title: Symbolic-numeric reachability analysis of closed-loop control software
+  details: 
+  year: 2016
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/2883817.2883819
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Roopsha Samanta, Jyotirmoy V Deshmukh, Swarat Chaudhuri
+  title: Robustness analysis of networked systems
+  details: 
+  year: 2013
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-642-35873-9_15
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Ezio Bartocci, Jyotirmoy Deshmukh, Felix Gigler, Cristinel Mateis
+   , Dejan Ničković, Xin Qin
+  title: Mining shape expressions from positive examples
+  details: IEEE Transactions on Computer-Aided Design of Integrated Circuits, Systems
+    39
+  year: 2020
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/9211424/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Panagiotis Kyriakis, Jyotirmoy Deshmukh
+  title: Pareto policy adaptation
+  details: International Conference on Learning Representations 2022
+  year: 2022
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://par.nsf.gov/biblio/10380951
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Sara Mohammadinejad, Jyotirmoy V Deshmukh, Aniruddh G Puranic
+  title: Mining environment assumptions for cyber-physical system models
+  details: 
+  year: 2020
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/9096037/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Dejan Ničković, Xin Qin, Thomas Ferrère, Cristinel Mateis,
+    Jyotirmoy Deshmukh
+  title: Shape expressions for specifying, extracting signal features
+  details: 
+  year: 2019
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-030-32079-9_17
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Navid Hashemi, Xin Qin, Lars Lindemann, Jyotirmoy V Deshmukh
+  title: Data-driven reachability analysis of stochastic dynamical systems with conformal
+    inference
+  details: 
+  year: 2023
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/10384213/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Selma Saidi, Dirk Ziegenbein, Jyotirmoy V Deshmukh, Rolf Ernst
+  title: 'Autonomous systems design: Charting a new discipline'
+  details: IEEE Design & Test 39
+  year: 2021
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/9615198/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Navid Hashemi, Bardh Hoxha, Tomoya Yamaguchi, Danil Prokhorov
+   , Georgios Fainekos, Jyotirmoy Deshmukh
+  title: A neurosymbolic approach to the verification of temporal logic properties
+    of learning-enabled control systems
+  details: 
+  year: 2023
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/3576841.3585928
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Gaurav Gupta, Chenzhong Yin, Jyotirmoy V Deshmukh, Paul Bogdan
+  title: Non-markovian reinforcement learning using fractional dynamics
+  details: 
+  year: 2021
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/9683076/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Alexandre Donzé, Xiaoqing Jin, Jyotirmoy V Deshmukh, Sanjit A
+    Seshia
+  title: Automotive systems requirement mining using breach
+  details: 
+  year: 2015
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/7171970/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy V Deshmukh, E Allen Emerson, Sriram Sankaranarayanan
+  title: Symbolic modular deadlock analysis
+  details: Automated Software Engineering 18
+  year: 2011
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/article/10.1007/s10515-011-0085-0
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Anand Balakrishnan, Stefan Jaksic, Edgar Aguilar, Dejan Nickovic
+   , Jyotirmoy Deshmukh
+  title: Model-free reinforcement learning for symbolic automata-encoded objectives
+  details: 
+  year: 2022
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/3501710.3524734
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Rajeev Alur, Loris D'Antoni, Jyotirmoy V Deshmukh, Mukund Raghothaman
+   , Yifei Yuan
+  title: Regular functions, cost register automata,, generalized min-cost problems
+  details: arXiv preprint arXiv:1111.0670
+  year: 2011
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://arxiv.org/abs/1111.0670
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Navid Hashemi, Xin Qin, Jyotirmoy V Deshmukh, Georgios Fainekos
+   , Bardh Hoxha, Danil Prokhorov, Tomoya Yamaguchi
+  title: Risk-awareness in learning neural controllers for temporal logic objectives
+  details: 
+  year: 2023
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/10156345/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Tomoya Yamaguchi, Bardh Hoxha, Danil Prokhorov, Jyotirmoy V Deshmukh
+  title: Specification-guided software fault localization for autonomous mobile systems
+  details: 
+  year: 2020
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/9315067/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy Deshmukh, Georgios Fainekos, James Kapinski, Sriram
+    Sankaranarayanan, Aditya Zutshi, Xiaoqing Jin
+  title: 'Beyond single shooting: Iterative approaches to falsification'
+  details: 
+  year: 2015
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/7171971/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Chuchu Fan, Xin Qin, Jyotirmoy Deshmukh
+  title: Parameter searching, partition with probabilistic coverage guarantees
+  details: arXiv preprint arXiv:2004.00279
+  year: 2020
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://scholar.google.com/scholar?cluster=11104141353001779962&hl=en&oi=scholarr
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Xin Qin, Jyotirmoy V Deshmukh
+  title: Predictive monitoring for signal temporal logic with probabilistic guarantees
+  details: 
+  year: 2019
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/3302504.3313353
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Aniruddh G Puranic, Jyotirmoy V Deshmukh, Stefanos Nikolaidis
+  title: Learning performance graphs from demonstrations via task-based evaluations
+  details: IEEE Robotics, Automation Letters 8
+  year: 2022
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/9968087/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Nikos Aréchiga, James Kapinski, Jyotirmoy V Deshmukh, André Platzer
+   , Bruce Krogh
+  title: Forward invariant cuts to simplify proofs of safety
+  details: 
+  year: 2015
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/7318278/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+# - authors: Mohammad Hekmatnejad, Bardh Hoxha, Jyotirmoy V Deshmukh, Yezhou
+#     Yang, Georgios Fainekos
+#   title: Formalizing, evaluating requirements of perception systems for automated
+#     vehicles using spatio-temporal perception logic
+#   details: The International Journal of Robotics Research
+#   year: 2024
+#   image: 
+#   imagealt: 
+#   pmid: 
+#   pmcid: 
+#   openaccess: https://journals.sagepub.com/doi/abs/10.1177/02783649231223546
+#   doi: 
+#   file: 
+#   filetype: 
+#   github: 
+#   biorxiv: 
+#   psyarxiv: 
+#   contentshare: 
+#   preregistered: 
+#   opendata: 
+#   openmaterials: 
+- authors: Dejan Ničković, Xin Qin, Thomas Ferrère, Cristinel Mateis,
+    Jyotirmoy Deshmukh
+  title: Specifying, detecting temporal patterns with shape expressions
+  details: International Journal on Software Tools for Technology Transfer 23
+  year: 2021
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/article/10.1007/s10009-021-00627-x
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Xin Qin, Nikos Aréchiga, Andrew Best, Jyotirmoy Deshmukh
+  title: Automatic testing with reusable adversarial agents
+  details: arXiv preprint arXiv:1910.13645
+  year: 2019
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://arxiv.org/abs/1910.13645
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Marcell Vazquez-Chanlatte, Jyotirmoy V Deshmukh, Xiaoqing Jin,
+    Sanjit A Seshia
+  title: Logic-based clustering, learning for time-series data
+  details: arXiv preprint arXiv:1612.07823
+  year: 2016
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://arxiv.org/abs/1612.07823
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: James P Kapinski, Jyotirmoy V Deshmukh
+  title: Systems, methods for evaluating stability of software code for control
+    systems
+  details: 
+  year: 2015
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://patents.google.com/patent/US9195222B2/en
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Ganesan Ramalingam, Sriram Rajamani, Venkatesh-Prasad Ranganath,
+    Kapil Vaswani, Jyotirmoy Vinay Deshmukh
+  title: Identifying concurrency control from a sequential proof
+  details: 
+  year: 2010
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://patents.google.com/patent/US20100169618A1/en
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Xin Qin, Yuan Xia, Aditya Zutshi, Chuchu Fan, Jyotirmoy V Deshmukh
+  title: Statistical verification using surrogate models, conformal inference,
+    a comparison with risk-aware verification
+  details: ACM Transactions on Cyber-Physical Systems
+  year: 2024
+  image: 1.png
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/3635160
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Navid Hashemi, Bardh Hoxha, Danil Prokhorov, Georgios Fainekos
+   , Jyotirmoy Deshmukh
+  title: Scaling Learning based Policy Optimization for Temporal Logic Tasks by Controller
+    Network Dropout
+  details: arXiv preprint arXiv:2403.15826
+  year: 2024
+  image: 2.png
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://www.researchgate.net/profile/Navid-Hashemi-2/publication/379268301_Scaling_Learning_based_Policy_Optimization_for_Temporal_Tasks_via_Dropout/links/66026b16a8baf573a1df1f65/Scaling-Learning-based-Policy-Optimization-for-Temporal-Tasks-via-Dropout.pdf
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Xin Qin, Nikos Aréchiga, Jyotirmoy Deshmukh, Andrew Best
+  title: Robust Testing for Cyber-Physical Systems using Reinforcement Learning
+  details: 
+  year: 2023
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/3610579.3611087
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Mingxi Cheng, Junyao Zhang, Shahin Nazarian, Jyotirmoy Deshmukh
+   , Paul Bogdan
+  title: Trust-aware control for intelligent transportation systems
+  details: 
+  year: 2021
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/9576045/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy V Deshmukh, James P Kapinski, Xiaoqing Jin, Luan V Nguyen
+  title: Privacy-aware signal monitoring systems, methods
+  details: 
+  year: 2020
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://patents.google.com/patent/US10580225B2/en
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Anand Balakrishnan, Jyotirmoy V Deshmukh
+  title: Structured reward functions using STL
+  details: 
+  year: 2019
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/3302504.3313355
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy V Deshmukh, Panagiotis Kyriakis, Paul Bogdan
+  title: 'Stochastic temporal logic abstractions: Challenges, opportunities'
+  details: 
+  year: 2018
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-030-00151-3_1
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Nikos Aréchiga, James Kapinski, Jyotirmoy V Deshmukh, André Platzer
+   , Bruce Krogh
+  title: Numerically-aided deductive safety proof for a powertrain control system
+  details: Electronic Notes in Theoretical Computer Science 317
+  year: 2015
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://www.sciencedirect.com/science/article/pii/S1571066115000444
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Xiaoqing Jin, Jyotirmoy V Deshmukh, James Kapinski, Koichi Ueda
+   , Ken Butts
+  title: Challenges of applying formal methods to automotive control systems
+  details: Proceedings of the NSF National Workshop on Transportation Cyber-Physical
+    Systems
+  year: 2014
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://cps-vo.org/sites/cps-vo.org/files/cpsvo_file_nodes/Challenges_of_Applying_Formal_Methods_to_Automotive_Control_Systems.pdf
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy Deshmukh, E Allen Emerson
+  title: Verification of recursive methods on tree-like data structures
+  details: 
+  year: 2009
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/5351144/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Yiqi Zhao, Bardh Hoxha, Georgios Fainekos, Jyotirmoy V Deshmukh
+   , Lars Lindemann
+  title: Robust conformal prediction for stl runtime verification under distribution
+    shift
+  details: 
+  year: 2024
+  image: 3_paper.png
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/10571640/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Anand Balakrishnan, Stefan Jakšić, Edgar A Aguilar, Dejan Ničković
+   , Jyotirmoy V Deshmukh
+  title: Model-Free Reinforcement Learning for Spatiotemporal Tasks Using Symbolic
+    Automata
+  details: 
+  year: 2023
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/10383559/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Xin Qin, Navid Hashemi, Lars Lindemann, Jyotirmoy V Deshmukh
+  title: Conformance Testing for Stochastic Cyber-Physical Systems.
+  details: 
+  year: 2023
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://library.oapen.org/bitstream/handle/20.500.12657/85158/Nadel-2023-Proceedings%20of%20the%2023rd%20Conference%20on%20Formal%20Methods%20in%20Comput...-vor.pdf?sequence=1#page=308
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Sheryl Paul, Jyotirmoy V Deshmukh
+  title: Multi agent path finding using evolutionary game theory
+  details: arXiv preprint arXiv:2212.02010
+  year: 2022
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://arxiv.org/abs/2212.02010
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Sara Mohammadinejad, Jesse Thomason, Jyotirmoy V Deshmukh
+  title: Interactive learning from natural language, demonstrations using signal
+    temporal logic
+  details: arXiv preprint arXiv:2207.00627
+  year: 2022
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://arxiv.org/abs/2207.00627
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Panagiotis Kyriakis, Jyotirmoy V Deshmukh, Paul Bogdan
+  title: Learning from Demonstrations under Stochastic Temporal Logic Constraints
+  details: 
+  year: 2022
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/9867861/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Ezio Bartocci, Jyotirmoy Deshmukh, Cristinel Mateis, Eleonora
+    Nesterini, Dejan Ničković, Xin Qin
+  title: Mining Shape Expressions with ShapeIt
+  details: 
+  year: 2021
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-030-92124-8_7
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy V Deshmukh, Xiaoqing Jin, Alexandre Donze, Sanjit A
+    Seshia
+  title: Systems, methods for mining temporal requirements from block diagram models
+    of control systems
+  details: 
+  year: 2015
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://patents.google.com/patent/US9081900B2/en
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Aniruddh G Puranic, Jyotirmoy V Deshmukh, Stefanos Nikolaidis
+  title: Signal Temporal Logic-Guided Apprenticeship Learning
+  details: arXiv preprint arXiv:2311.05084
+  year: 2023
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://arxiv.org/abs/2311.05084
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Swapnil Mallick, Shuvam Ghosal, Anand Balakrishnan, Jyotirmoy
+    Deshmukh
+  title: Safety monitoring for pedestrian detection in adverse conditions
+  details: 
+  year: 2023
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-031-44267-4_22
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Georgios Fainekos, Hani Ben Amor, Adel Dokhanchi, Jyotirmoy Deshmukh
+  title: Systems, methods for evaluating perception systems for autonomous vehicles
+    using quality temporal logic
+  details: 
+  year: 2023
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://patents.google.com/patent/US11586914B2/en
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: James P Kapinski, Jyotirmoy V Deshmukh, Danil Prokhorov
+  title: Systems, methods for safety-aware training of AI-based control systems
+  details: 
+  year: 2022
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://patents.google.com/patent/US11467575B2/en
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Sara Mohammadinejad, Jyotirmoy V Deshmukh, Laura Nenzi
+  title: Mining interpretable spatio-temporal logic properties for spatially distributed
+    systems
+  details: 
+  year: 2021
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-030-88885-5_7
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Selma Saidi, Dirk Ziegenbein, Jyotirmoy V Deshmukh, Rolf Ernst
+  title: EDA for autonomous behavior assurance
+  details: 
+  year: 2020
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/3400302.3415760
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy Deshmukh, Dejan Ničković
+  title: 'Runtime Verification: 20th International Conference, RV 2020, Los Angeles,
+    CA, USA, October 6–9, 2020, Proceedings'
+  details: '12399'
+  year: 2020
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://books.google.com/books?hl=en&lr=&id=5tIBEAAAQBAJ&oi=fnd&pg=PR5&dq=info:C8u9exwhHygJ:scholar.google.com&ots=zkUVgbvtRQ&sig=hp_1H7EfU9GLyxQk9M175ycS_dE
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Kolby Nottingham, Anand Balakrishnan, Jyotirmoy Deshmukh, David
+    Wingate
+  title: Using logical specifications of objectives in multi-objective reinforcement
+    learning
+  details: arXiv preprint arXiv:1910.01723
+  year: 2019
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://arxiv.org/abs/1910.01723
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Ayca Balkan, Jyotirmoy Vinay Deshmukh, James Kapinski
+  title: Simulation-guided incremental stability analysis
+  details: 
+  year: 2017
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://patents.google.com/patent/US9606773B2/en
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy V Deshmukh, Hisahiro Ito, Xiaoqing Jin, James Kapinski
+   , Kenneth R Butts, Jürgen Gerhard, Behzad Samadi, Kevin Walker,
+    Yuzhen Xie
+  title: Piecewise-Affine Approximations for a Powertrain Control Verification Benchmark.
+  details: 
+  year: 2015
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://easychair.org/publications/download/vgJJ
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Lars Lindemann, Yiqi Zhao, Xinyi Yu, George J Pappas, Jyotirmoy
+    V Deshmukh
+  title: Formal verification, control with conformal prediction
+  details: arXiv preprint arXiv:2409.00536
+  year: 2024
+  image: 4_paper.png
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://arxiv.org/abs/2409.00536
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Navid Hashemi, Lars Lindemann, Jyotirmoy V Deshmukh
+  title: Statistical reachability analysis of stochastic cyber-physical systems under
+    distribution shift
+  details: arXiv preprint arXiv:2407.11609
+  year: 2024
+  image: 5_paper.png
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://arxiv.org/abs/2407.11609
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+# - authors: Sam Williams, Jyotirmoy Deshmukh
+#   title: Potential Games on Cubic Splines for Multi-Agent Motion Planning of Autonomous
+#     Agents
+#   details: 
+#   year: 2024
+#   image: 6_paper.png
+#   imagealt: 
+#   pmid: 
+#   pmcid: 
+#   openaccess: https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p2555.pdf
+#   doi: 
+#   file: 
+#   filetype: 
+#   github: 
+#   biorxiv: 
+#   psyarxiv: 
+#   contentshare: 
+#   preregistered: 
+#   opendata: 
+#   openmaterials: 
+- authors: Yiqi Zhao, Xinyi Yu, Jyotirmoy V Deshmukh, Lars Lindemann
+  title: Conformal Predictive Programming for Chance Constrained Optimization
+  details: arXiv preprint arXiv:2402.07407
+  year: 2024
+  image: 7_paper.png
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://arxiv.org/abs/2402.07407
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+# - authors: Jyotirmoy Deshmukh, Bettina Könighofer, Dejan Ničković, Filip
+#     Cano
+#   title: Safety Assurance for Autonomous Mobility (Dagstuhl Seminar 24071)
+#   details: 
+#   year: 2024
+#   image: 
+#   imagealt: 
+#   pmid: 
+#   pmcid: 
+#   openaccess: https://drops.dagstuhl.de/entities/document/10.4230/DagRep.14.2.95
+#   doi: 
+#   file: 
+#   filetype: 
+#   github: 
+#   biorxiv: 
+#   psyarxiv: 
+#   contentshare: 
+#   preregistered: 
+#   opendata: 
+#   openmaterials: 
+- authors: Aniruddh G Puranic, Jyotirmoy V Deshmukh, Stefanos Nikolaidis
+  title: Learning performance graphs from demonstrations via task-based evaluations-supplemental
+    material
+  details: 
+  year: 2022
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://aniruddh-puranic.info/assets/pdf/peglearn_supp.pdf
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Xin Qin, Jyotirmoy V Deshmukh
+  title: Preview of predictive monitoring for signal temporal logic with probabilistic
+    guarantees
+  details: 
+  year: 2019
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/3313149.3313370
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy V Deshmukh E Allen Emerson, Jyotirmoy V Deshmukh
+  title: Verification of recursive methods on tree-like data structures
+  details: 
+  year: 2009
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://www.cs.utexas.edu/~hunt/fmcad/FMCAD09/slides/deshmukh.pdf
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Samuel Williams, Jyotirmoy Deshmukh
+  title: Potential Games on Cubic Splines for Self-Interested Multi-Agent Motion Planning
+  details: IEEE Control Systems Letters
+  year: 2024
+  image: 6_paper.png
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/10742007/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p2555.pdf
+- authors: Sheryl Paul, Jyotirmoy V Deshmukh
+  title: 'Survival of the Fittest: Evolutionary Adaptation of Policies for Environmental
+    Shifts'
+  details: arXiv preprint arXiv:2410.19852
+  year: 2024
+  image: 8_paper.png
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://arxiv.org/abs/2410.19852
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Anand Balakrishnan, Merve Atasever, Jyotirmoy V Deshmukh
+  title: Motion Planning for Automata-based Objectives using Efficient Gradient-based
+    Methods
+  details: arXiv preprint arXiv:2410.11156
+  year: 2024
+  image: 9_paper.png
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://arxiv.org/abs/2410.11156
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Vidisha Kudalkar, Navid Hashemi, Shilpa Mukhopadhyay, Swapnil
+    Mallick, Christof Budnik, Parinitha Nagaraja, Jyotirmoy V Deshmukh
+  title: Sampling-Based, Gradient-Based Efficient Scenario Generation
+  details: 
+  year: 2024
+  image: 10_paper.png
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-031-74234-7_5
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Sheryl Paul, Anand Balakrishnan, Xin Qin, Jyotirmoy V Deshmukh
+  title: Multi-agent Path Finding for Timed Tasks Using Evolutionary Games
+  details: 
+  year: 2024
+  image: 11.png
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/chapter/10.1007/978-3-031-68416-6_18
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Navid Hashemi, Bardh Hoxha, Danil Prokhorov, Georgios Fainekos
+   , Jyotirmoy V Deshmukh
+  title: Scaling Learning based Policy Optimization for Temporal Logic Tasks by Controller
+    Network Dropout
+  details: ACM Transactions on Cyber-Physical Systems
+  year: 2024
+  image: 2.png
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/3696112
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Michael Collins, Jyotirmoy V Deshmukh, Dristi Dinesh, Mukund Raghothaman
+   , Srivatsan Ravi, Yuan Xia
+  title: 'Superflows: A New Tool for Forensic Network Flow Analysis'
+  details: arXiv preprint arXiv:2403.01314
+  year: 2024
+  image: 13.png
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://arxiv.org/abs/2403.01314
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Navid Hashemi, Samuel Williams, Bardh Hoxha, Danil Prokhorov,
+    Georgios Fainekos, Jyotirmoy Deshmukh
+  title: 'LB4TL: A Smooth Semantics for Temporal Logic to Train Neural Feedback Controllers'
+  details: IFAC-PapersOnLine 58
+  year: 2024
+  image: 14_paper.png
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://www.sciencedirect.com/science/article/pii/S2405896324005445
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Yuan Xia, Jyotirmoy V Deshmukh, Mukund Raghothaman, Srivatsan
+    Ravi
+  title: Data-Driven Template-Free Invariant Generation
+  details: arXiv preprint arXiv:2312.17527
+  year: 2023
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://arxiv.org/abs/2312.17527
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Yuriy Biktairov, Jyotirmoy Deshmukh
+  title: 'SOL: Sampling-based Optimal Linear bounding of arbitrary scalar functions'
+  details: Advances in Neural Information Processing Systems 36
+  year: 2023
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://proceedings.neurips.cc/paper_files/paper/2023/hash/690b93e9ab0cc3b1d88b32f6f473ce69-Abstract-Conference.html
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Navid Hashemi, Justin Ruths, Jyotirmoy V Deshmukh
+  title: Convex Optimization-based Policy Adaptation to Compensate for Distributional
+    Shifts
+  details: 
+  year: 2023
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/10383295/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy Deshmukh, Dejan Ničković
+  title: Introduction to the Special Issue on Runtime Verification
+  details: International Journal on Software Tools for Technology Transfer 25
+  year: 2023
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://link.springer.com/article/10.1007/s10009-023-00721-2
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Aniruddh Puranic, Jyotirmoy Deshmukh, Stefanos Nikolaidis
+  title: Learning from Demonstrations with Temporal Logics
+  details: 
+  year: 2022
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/3501710.3524914
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Selma Saidi, Dirk Ziegenbein, Jyotirmoy V Deshmukh, Rolf Ernst
+  title: 'Guest Editors’ Introduction: Special Issue on Autonomous Systems Design'
+  details: IEEE Design & Test 39
+  year: 2022
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/9709618/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Selma Saidi, Dirk Ziegenbein, Jyotirmoy V Deshmukh, Rolf Ernst
+  title: 'Autonomous Systems Design: Charting a New'
+  details: 
+  year: 2021
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://scholar.google.com/scholar?cluster=5170207662565148462&hl=en&oi=scholarr
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy V Deshmukh, James P Kapinski, Xiaoqing Jin, Luan V Nguyen
+  title: Privacy-aware signal monitoring systems, methods
+  details: 
+  year: 2021
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://patents.google.com/patent/US11087568B2/en
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Sebastian Steinhorst, Jyotirmoy V Deshmukh
+  title: 2nd International Workshop on Autonomous Systems Design
+  details: 
+  year: 2020
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: http://dagstuhl.sunsite.rwth-aachen.de/volltexte/2020/12593/pdf/oasics-vol079-asd2020-complete.pdf
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy V Deshmukh, Xiaoqing Jin, Jared Farnsworth, Shigeki
+    Hasegawa
+  title: STL actuation-path planning
+  details: 
+  year: 2020
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://patents.google.com/patent/US10547070B2/en
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Sebastian Steinhorst, Jyotirmoy V Deshmukh
+  title: '2nd International Workshop on Autonomous Systems Design: ASD 2020, March
+    13, 2020, Grenoble, France, Converted to a Virtual Event Due to COVID-19, Held
+    in April 2020'
+  details: 
+  year: 2020
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://scholar.google.com/scholar?cluster=1295857092296668887&hl=en&oi=scholarr
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Sebastian Steinhorst, Jyotirmoy V Deshmukh
+  title: OASICS
+  details: 
+  year: 2020
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://mediatum.ub.tum.de/1595916
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Sebastian Steinhorst, Jyotirmoy V Deshmukh
+  title: OASIcs, Volume 79, ASD 2020, Complete Volume
+  details: 
+  year: 2020
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.ASD.2020
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy V Deshmukh, James P Kapinski, Xiaoqing Jin
+  title: Systems, methods for testing convergence of closed-loop control systems
+  details: 
+  year: 2019
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://patents.google.com/patent/US10429811B2/en
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Aniruddh Puranic, Jian Chen, Jessica Nguyen, Jyotirmoy Deshmukh
+   , Andrew Hung
+  title: MP35-04 AUTOMATED EVALUATION OF INSTRUMENT FORCE SENSITIVITY DURING ROBOTIC
+    SUTURING UTILIZING VISION-BASED MACHINE LEARNING
+  details: Journal of Urology 201
+  year: 2019
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://journals.lww.com/auajuro/abstract/2019/04001/mp35_04_automated_evaluation_of_instrument_force.1172.aspx
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy V Deshmukh, Oded Maler, Dejan Nickovic
+  title: From Real-time Logic to Timed Automata
+  details: Dagstuhl reports 2
+  year: 2019
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://publications.ait.ac.at/de/publications/from-real-time-logic-to-timed-automata-9
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy V Deshmukh, Oded Maler, Dejan Nickovic
+  title: Specification Formalisms for Modern Cyber-Physical Systems (Dagstuhl Seminar
+    19071)
+  details: 
+  year: 2019
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://drops.dagstuhl.de/entities/document/10.4230/DagRep.9.2.48
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Xin Qin, Jyotirmoy V Deshmukh
+  title: Joint Probability Distribution of Prediction Errors of ARIMA
+  details: arXiv preprint arXiv:1811.04685
+  year: 2018
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://arxiv.org/abs/1811.04685
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Cumhur Erkan Tuncali, James Kapinski, Hisahiro Ito, Jyotirmoy
+    V Deshmukh
+  title: Reasoning about Safety of Learning-Enabled Components in Autonomous Cyber-physical
+    Systems
+  details: arXiv e-prints
+  year: 2018
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ui.adsabs.harvard.edu/abs/2018arXiv180403973E/abstract
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: James P Kapinski, Jyotirmoy V Deshmukh, Xiaoqing Jin, Thao Dang
+   , Tommaso Dreossi
+  title: Coverage guided technique for bug finding in control systems, software
+  details: 
+  year: 2017
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://patents.google.com/patent/US9798652B2/en
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy Deshmukh, Wolfgang Kunz, Hans-Joachim Wunderlich, Sybille
+    Hellebrand
+  title: Special session on early life failures
+  details: 
+  year: 2017
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/7928933/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: A Agha-Mohammadi, N Ahmed, M Akbulut, M Arias-Montiel, E Atam
+   , R Baheti, M Berenguel, D Bernstein, T Bifano, D Bishop, R Bitmead
+   , J Blesa, K Butts, M Campbell, S Chakravorty, J Chang, Y Chen
+   , R Choe, H Choi, V Cichella, G Como, J Cortes, R Costa-Castello
+   , J da Cruz, K Daniilidis, F Dellaert, J Deshmukh, J Diaz, Z
+    Ding, V Dobrokhodov, J Dong, S Dormido, FJ Doyle, F Doyle III,
+    S Ferrari, G Foderaro, P Frasca, R Garcia-Garcia, D Gavez-Lopez,
+    J Guzman, A Haidar, L Helsen, J Horn, N Hovakimyan, J How
+  title: 2016 Index IEEE Control Systems Vol. 36
+  details: IEEE Control Systems Magazine 36
+  year: 2016
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/7792826/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy V Deshmukh
+  title: 'Formal Methods for Embedded Control Software: Some Recent Progress'
+  details: 
+  year: 2016
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://scholar.google.com/scholar?cluster=7879483151745866774&hl=en&oi=scholarr
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy Vinay Deshmukh
+  title: Verification of sequential, concurrent libraries
+  details: 
+  year: 2010
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://repositories.lib.utexas.edu/items/7d8315fe-b79f-4e62-bb17-b44ca36ac428
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Anand Balakrishnan, Rohit Bernard, Shreeram Narayanan, Vidisha
+    Kudalkar, Yiqi Zhao, Parinitha Nagaraja, Georgi Markov, Christof Budnik
+   , Helmut Degen, Lars Lindemann, Jyotirmoy V Deshmukh
+  title: Safety Assurance for Autonomous Systems with Multiple Sensor Modalities
+  details: 
+  year: 
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://web.eng.fiu.edu/gaquan/Papers/ESWEEK24Papers/CPS-Proceedings/pdfs/MEMOCODE/780200a106/780200a106.pdf
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Anand Balakrishnan, Jyotirmoy V Deshmukh
+  title: Differentiable Weighted Automata
+  details: 
+  year: 
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://openreview.net/forum?id=k2hIQYqHTh
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy Deshmukh
+  title: 3.3 Neuro-symbolic Model Learning for Controller Synthesis, Verification
+  details: Model Learning for Improved Trustworthiness in Autonomous Systems
+  year: 
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://drops.dagstuhl.de/storage/04dagstuhl-reports/volume13/issue12/23492/DagRep.13.12.24/DagRep.13.12.24.pdf#page=7
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Sheryl Paul, Jyotirmoy V Deshmukh
+  title: Robust Policy Optimization with Evolutionary Techniques
+  details: 
+  year: 
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://openreview.net/forum?id=UJeqE3gmg2
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Ezio Bartocci, Jyotirmoy Deshmukh, Alexandre Donzé, Georgios Fainekos
+   , Oded Maler, Dejan Nickovic, Sriram Sankaranarayanan, Adrian Francalanza
+   , Jorge A Perez, Cesar Sanchez, Christian Colombo, Gordon J Pace
+  title: 'Klaus Havelund, Giles Reger, Eugen Zalinescu, Daniel Thoma Chapter 4-Runtime
+    Error Reaction, Prevention.................. 67 Ylies Falcone, Leonardo Mariani,
+    Antoine Rollet, Saikat Saha Chapter 5-Specification-based Monitoring of Cyber-Physical
+    Systems: A Survey on Theory, Tools, Applications......................... 97'
+  details: 
+  year: 
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://scholar.google.com/scholar?cluster=4131485133594834863&hl=en&oi=scholarr
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Navid Hashemi, Bardh Hoxha, Danil V Prokhorov, Georgios Fainekos
+   , Jyotirmoy V Deshmukh
+  title: Scaling Safe Learning-based Control to Long-Horizon Temporal Tasks
+  details: 
+  year: 
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://openreview.net/forum?id=UTLv72uDlS
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Aditya Zutshi Sriram Sankaranarayanan, Jyotirmoy V Deshmukh, Xiaoqing
+    Jin
+  title: Symbolic-Numeric Reachability Analysis of Closed-Loop Control Software
+  details: 
+  year: 
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://www.academia.edu/download/103450925/2883817.pdf
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Aniruddh G Puranic, Jyotirmoy V Deshmukh, Stefanos Nikolaidis
+  title: Signal Temporal Logic-Guided Apprenticeship Learning Supplemental Document
+  details: 
+  year: 
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://aniruddh-puranic.info/assets/pdf/alstl_supp.pdf
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Aron Laszka, Stephan Sigg, Amrita Anam, Christian Becker, Paolo
+    Bellavista, Shameek Bhattacharjee, Shuvra Bhattacharyya, Chiara Boldrini
+   , Georgios Bouloukakis, Tristan Braud, Ray Chen, Claudio Cicconetti
+   , Gabriele Civitarese, Alexandre da Silva Veith, Klaus David, Luca
+    Davoli, Jyotirmoy Vinay Deshmukh, Schahram Dustdar, Salma El Malaki,
+    Stefan Fischer, Huber Flores, Nikolaos Georgantas, Paul Grace, Paul
+    JM Havinga
+  title: SMARTCOMP 2023
+  details: 
+  year: 
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://www.computer.org/csdl/proceedings-article/smartcomp/2023/228100z019/1PpUibNmgCc
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy V Deshmukh
+  title: 'Session details: Compositional Methods'
+  details: 
+  year: 
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://dl.acm.org/doi/abs/10.1145/3258028
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Aanjhan Ranganathan, Patrick Tague, Gail-Joon Ahn, David Barerra
+   , Gedare Bloom, Jyotirmoy Deshmukh, Kassem Fawaz, Richard Han, Anwar
+    Hithnawi, Kari Kostiainen, Insup Lee, Joseph Maguire, Adwait Nadkarni
+    William, Mary Sashank Narain Umass Lowell, Miroslav Pajic, Amir Rahmati
+   , Kay Roemer, Elizabeth Stobert, Paulo Tabuada, Yuan Tian, James
+    Weimer, Xinyu Zhang, Saman Zonouz
+  title: SafeThings 2020 Organization
+  details: 
+  year: 
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://www.computer.org/csdl/proceedings-article/spw/2020/934600z021/1pF6UFQfLDG
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy Vinay Deshmukh, Aanjhan Ranganathan, Patrick Tague
+  title: Workshop on the Internet of Safe Things (SafeThings 2020)
+  details: 
+  year: 
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://ieeexplore.ieee.org/abstract/document/9283872/
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Garvit Juniwal, Shromona Ghosh, Alexandre Donzé, Sanjit A Seshia
+   , Jyotirmoy V Deshmukh, Xiaoqing Jin
+  title: Robust Online Monitoring of Signal Temporal Logic
+  details: 
+  year: 
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://jdeshmukh.github.io/Papers/rv15talk.pdf
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Anand Balakrishnan, Jyotirmoy Deshmukh
+  title: Structured Rewarding using STL
+  details: 
+  year: 
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://scholar.google.com/scholar?cluster=13376326860835866299&hl=en&oi=scholarr
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Ezio Bartocci, Jyotirmoy Deshmukh, Alexandre Donzé, Georgios Fainekos
+   , Oded Maler, Dejan Nickovic, Sriram Sankaranarayanan
+  title: Monitoring Cyber-Physical Systems
+  details: 
+  year: 
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://scholar.google.com/scholar?cluster=10724920809968216945&hl=en&oi=scholarr
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy V Deshmukh, E Allen Emerson, Roopsha Samanta
+  title: Economical Transformations of Structured Data (Extended Version)
+  details: 
+  year: 
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://viterbi-web.usc.edu/~jdeshmuk/Papers/cs-tr.pdf
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Rajeev Alur, Jyotirmoy V Deshmukh, Sela Mador-Haim, Milo MK Martin
+   , Arun Raghavan, Abhishek Udupa
+  title: Protocol Design with Concolic Snippets
+  details: 
+  year: 
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://www.academia.edu/download/40471480/viewcontent.pdf
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Rajeev Alur, Jyotirmoy V Deshmukh, Sela Mador-Haim, Milo MK Martin
+   , Arun Raghavan, Abhishek Udupa
+  title: Specifying Protocols with Concolic Snippets
+  details: 
+  year: 
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://scholar.google.com/scholar?cluster=7168115576940180861&hl=en&oi=scholarr
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 
+- authors: Jyotirmoy V Deshmukh
+  title: Checking properties of distributed computations
+  details: 
+  year: 
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
+  openaccess: https://www.researchgate.net/profile/Jyotirmoy-Deshmukh-2/publication/228597560_Checking_properties_of_distributed_computations/links/0deec517fcd7757302000000/Checking-properties-of-distributed-computations.pdf
+  doi: 
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
+  psyarxiv: 
+  contentshare: 
+  preregistered: 
+  opendata: 
+  openmaterials: 

@@ -1,0 +1,44 @@
+
+# - name: 
+#   image: 
+#   altimage: 
+#   position: 
+#   email: 
+#   website: 
+#   scholar:
+#   twitter:
+#   description: 
+               
+#   pubmed_name:
+
+
+
+- name: Mihir Kulkarni
+  altimage:
+  position: student
+  email: mkulkarn@usc.edu
+  twitter:
+  website:
+  scholar: 
+  orcid:
+  description: 
+
+- name: Deepayan Sur
+  altimage:
+  position: student
+  email: deepayan@usc.edu
+  twitter:
+  website:
+  scholar: 
+  orcid:
+  description: 
+
+- name: Aabha Pingle
+  altimage:
+  position: student
+  email: apingle@usc.edu
+  twitter:
+  website:
+  scholar: 
+  orcid:
+  description: 
