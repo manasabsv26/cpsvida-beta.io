@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Cyber-Physical Systems + Verification, Intelligence, Design, and Analysis. Research group headed by Prof. Jyo Deshmukh at the 
   University of Southern California, LA.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://manasabsv26.github.io
+url: https://manasabsv26.github.io/cpsvida-beta.io
 last_updated: # leave blank if you don't want to display last updated
 #twitter_username: jekyllrb
 #github_username:  jekyll
